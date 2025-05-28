@@ -38,7 +38,7 @@
   - `ttk` (usually included with tkinter)
   - `iproute2` (for the `ip` command)
   - `iptables` (for port forwarding)
-  - OUI file named `ouis` in the script directory (for MAC vendor lookup)
+- OUI file named `ouis` in the script directory (for MAC vendor lookup)
 
 Install Python dependencies with:
 
