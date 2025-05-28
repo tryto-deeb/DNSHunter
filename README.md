@@ -64,7 +64,7 @@ sudo apt install iproute2
 
 1. **Run the script with root privileges:**
     ```bash
-    sudo python3 spoofer13.py
+    sudo python3 DNSHunter.py
     ```
 
 2. **MAC Spoofer:**  
