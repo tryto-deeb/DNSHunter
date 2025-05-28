@@ -37,8 +37,15 @@
   - `tkinter`
   - `ttk` (usually included with tkinter)
   - `iproute2` (for the `ip` command)
+```bash
+sudo apt install iproute2
+```
   - `iptables` (for port forwarding)
-- OUI file named `ouis` in the script directory (for MAC vendor lookup)
+```bash
+sudo apt install iptables
+```
+
+  - OUI file named `ouis` in the script directory (for MAC vendor lookup)
 
 Install Python dependencies with:
 
